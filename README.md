@@ -7,7 +7,7 @@
 
 Copyright © 2013-2016 [Kurento]. Licensed under [Apache 2.0 License].
 
-Kurento Utils for Node.js and Browsers
+Kurento Utils for Node.js and Browsers!!!
 ======================================
 
 The Kurento Utils project contains a set of reusable components that have been
